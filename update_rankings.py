@@ -2,9 +2,9 @@ import pandas as pd
 import json
 from datetime import date, datetime
 
-def update_rankings(event_name, event_classification):
+def update_rankings(year, event_name, event_classification):
     print(f'Updating rankings for {event_name}')
-    df = pd.read_csv(f'assets/results/{event_name}_standings.csv')
+    df = pd.read_csv(f'assets/results/{year}/{event_name}_standings.csv')
     last_place = max(df['placement'])
     with open('assets/rankings/rank_data.json', 'r') as rank_file:
         rank_data = json.load(rank_file)
@@ -31,7 +31,14 @@ def update_rankings(event_name, event_classification):
             }
         }
         # if existing player
-        user_id = str(row['user_id'])
+        try:
+            user_id = str(int(row['user_id']))
+        except ValueError:
+            print(f'No user ID for {row}, skipping')
+            continue
+        # Zain's alt
+        if user_id == '2669494':
+            user_id = '2616'
         if user_id in rank_data:
             update_player_rank(rank_data[user_id], new_event)
             rank_data[user_id]['player'] = row['entrant_name']
@@ -44,7 +51,7 @@ def update_rankings(event_name, event_classification):
                 "events": new_event,
                 "10_best_events": new_event
             }
-            rank_data[row['user_id']] = new_player
+            rank_data[user_id] = new_player
     
     print('Preliminary update complete')
 
@@ -93,7 +100,7 @@ def remove_expired_events(data):
         cutoff_date = today.replace(month=2, day=28, year=today.year - 1)
 
     expired_events = set()
-
+    players_to_remove = []
     for player_id, player_data in data.items():
         new_events = {}
         new_best_events = {}
@@ -117,5 +124,10 @@ def remove_expired_events(data):
         player_data["events"] = new_events
         player_data["10_best_events"] = new_best_events
         player_data["points"] = new_points
+        if new_points == 0:
+            players_to_remove.append(player_id)
+    print(f'Removing {len(players_to_remove)} inactive players')
+    for player in players_to_remove:
+        del data[player]
 
     return expired_events

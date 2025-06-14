@@ -1,0 +1,4592 @@
+{
+    "11097": {
+        "player": "C9 | Mang0",
+        "points": 2000,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 1,
+                "points": 2000
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 1,
+                "points": 2000
+            }
+        }
+    },
+    "11403": {
+        "player": "Nouns | Cody Schwab",
+        "points": 1400,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 2,
+                "points": 1400
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 2,
+                "points": 1400
+            }
+        }
+    },
+    "10439": {
+        "player": "Plup",
+        "points": 1000,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 3,
+                "points": 1000
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 3,
+                "points": 1000
+            }
+        }
+    },
+    "22302": {
+        "player": "Red Bull IFM | aMSa",
+        "points": 800,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 4,
+                "points": 800
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 4,
+                "points": 800
+            }
+        }
+    },
+    "2616": {
+        "player": "Zain",
+        "points": 650,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            }
+        }
+    },
+    "10563": {
+        "player": "FLY | Jmook",
+        "points": 650,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            }
+        }
+    },
+    "1672": {
+        "player": "moist | moky",
+        "points": 500,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 7,
+                "points": 500
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 7,
+                "points": 500
+            }
+        }
+    },
+    "10806": {
+        "player": "Tempo | Axe",
+        "points": 500,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 7,
+                "points": 500
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 7,
+                "points": 500
+            }
+        }
+    },
+    "8916": {
+        "player": "Liquid | Hungrybox",
+        "points": 360,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "1719": {
+        "player": "LG | Wizzrobe",
+        "points": 360,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "75333": {
+        "player": "Nouns | Salt",
+        "points": 360,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "17545": {
+        "player": "KoDoRiN",
+        "points": 360,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "222015": {
+        "player": "LG | Soonsay",
+        "points": 260,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "53361": {
+        "player": "Joshman",
+        "points": 260,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "476646": {
+        "player": "DJM | Chem",
+        "points": 260,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "439608": {
+        "player": "MOF",
+        "points": 260,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "52": {
+        "player": "Spark",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "182985": {
+        "player": "Nouns | Aklo",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "26405": {
+        "player": "SDJ",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "86490": {
+        "player": "Spiral Cafe | Krudo",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "182926": {
+        "player": "Ossify",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "48446": {
+        "player": "bobby big ballz",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "98863": {
+        "player": "DTL | Wevans",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "3116": {
+        "player": "ZSB | Drephen",
+        "points": 180,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "48710": {
+        "player": "TXH | Beezy",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "665692": {
+        "player": "ckyulmiqnudaetr",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "171588": {
+        "player": "Zanya",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "181156": {
+        "player": "Khryke",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "18401": {
+        "player": "Wally",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "15053": {
+        "player": "Zamu",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "18544": {
+        "player": "Panda",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "664": {
+        "player": "GG | n0ne",
+        "points": 120,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "194471": {
+        "player": "ABG | salami",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "39605": {
+        "player": "Unsure",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "298629": {
+        "player": "WG|COFUG|true | Balloon Day",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "90114": {
+        "player": "CG | Inky",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "1640387": {
+        "player": "max",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "162095": {
+        "player": "Lowercase hero",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "2150": {
+        "player": "Junebug",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "8768": {
+        "player": "Mango's Friend | Lucky",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "43877": {
+        "player": "essy",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "8968": {
+        "player": "bc | S2J",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "216765": {
+        "player": "Preeminent",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "38590": {
+        "player": "Fro116",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "275369": {
+        "player": "CPU0",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "10364": {
+        "player": "Colbol",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "33503": {
+        "player": "waly world | Akir",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "137": {
+        "player": "MF | KJH",
+        "points": 80,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "153866": {
+        "player": "Panko",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "187124": {
+        "player": "Eggdog | Egg$",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "45720": {
+        "player": "Tipped Off | SDeems",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "39160": {
+        "player": "NSE | Maher",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "42297": {
+        "player": "Oasis | mayb",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "455260": {
+        "player": "Equilateral",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "86809": {
+        "player": "Dawson",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "490091": {
+        "player": "Fudge",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "11934": {
+        "player": "bab_o7",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "362433": {
+        "player": "Simmons",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "1199988": {
+        "player": "Bless\u00e9",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "42444": {
+        "player": "Zasa",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "95586": {
+        "player": "Comcast | Heavenly Bruised Pelvis",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "10163": {
+        "player": "20GX | Gahtzu",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "1497261": {
+        "player": "fitzy",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "153032": {
+        "player": "DTL | Kero",
+        "points": 50,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "17412": {
+        "player": "ADMJ",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "582": {
+        "player": "MATE | Kalvar",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "2857": {
+        "player": "Kata",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "76199": {
+        "player": "billybopeep",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "6573": {
+        "player": "htwa",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "11051": {
+        "player": "Violence",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1031760": {
+        "player": "swaggerbee",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "74": {
+        "player": "Snap",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "28105": {
+        "player": "Tipped Off | CAUP",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "285898": {
+        "player": "skyguy| | Sefunmi",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "26481": {
+        "player": "Eggdog | Chango",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "37860": {
+        "player": "Paladin",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1492275": {
+        "player": "OG Kid",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "181505": {
+        "player": "PULSE | Justus",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "216775": {
+        "player": "Stockholm Syndrome",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "171191": {
+        "player": "FRG | POG Epic Gamer",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1720248": {
+        "player": "Zimberfizz",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "178798": {
+        "player": "Komodo",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "38514": {
+        "player": "T. Webb",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "136077": {
+        "player": "skyguy | fknsilver",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "140144": {
+        "player": "egg",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "46149": {
+        "player": "Sneakywill",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "836891": {
+        "player": "audrey",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "138306": {
+        "player": "lexor",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1454349": {
+        "player": "Daniel",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "4394": {
+        "player": "TAP | bambi",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "14202": {
+        "player": "TN | Moist",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "12269": {
+        "player": "DTL | 2Saint",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "3325": {
+        "player": "Scythe",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "249027": {
+        "player": "KCG | lynxwynx",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "91492": {
+        "player": "Boyd",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1082": {
+        "player": "Suidt",
+        "points": 30,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "480019": {
+        "player": "JJM",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "76147": {
+        "player": "GS | SubTails",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "39992": {
+        "player": "Adwan",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "106610": {
+        "player": "Pulch",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "9891": {
+        "player": "Abel",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "26261": {
+        "player": "cardd",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "27973": {
+        "player": "Unoriginal",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "3952": {
+        "player": "Holiday",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "28198": {
+        "player": "Oaty",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "43857": {
+        "player": "Artan",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "34943": {
+        "player": "LG | Louis",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "531324": {
+        "player": "Willy P",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "5948": {
+        "player": "Supersponge",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "931956": {
+        "player": "Eclipse",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1842443": {
+        "player": "Syched",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "2319997": {
+        "player": "vivesthesia",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "458081": {
+        "player": "bc",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "6279": {
+        "player": "Just Jason",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "219163": {
+        "player": "2B",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "7115": {
+        "player": "Kevbot",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "20120": {
+        "player": "hexjo",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "17471": {
+        "player": "Yeti",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "14903": {
+        "player": "sfy | LordTet",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "2013998": {
+        "player": "SwebBy",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "25354": {
+        "player": "LVL69GYAT",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "11510": {
+        "player": "Walmart Shoes",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "2149992": {
+        "player": "69% | RLE | mvlvchi",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1242328": {
+        "player": "Case",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "180788": {
+        "player": "Taza",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1855689": {
+        "player": "Profanity",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "46782": {
+        "player": "MOOSE",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "792883": {
+        "player": "Chaboomba",
+        "points": 16,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "28041": {
+        "player": "OP",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "6499": {
+        "player": "The North | chipotle+",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "144107": {
+        "player": "quad",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "9659": {
+        "player": "PeachPants",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2256932": {
+        "player": "Berry | B",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "650061": {
+        "player": "Mr. Snuss",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "400858": {
+        "player": "Emps",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "39731": {
+        "player": "Bot Matt",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "741723": {
+        "player": "Mr2cents",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "20998": {
+        "player": "brokenyew",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "154259": {
+        "player": "Papu",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "524228": {
+        "player": "John Llawless",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "357325": {
+        "player": "SandBag",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "41686": {
+        "player": "Doogal",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "10826": {
+        "player": "Erika Bonchiko",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "644837": {
+        "player": "KittieSE",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "10871": {
+        "player": "Yort",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "298046": {
+        "player": "Knower",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "33917": {
+        "player": "Kairos",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "11135": {
+        "player": "Rooster",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "48542": {
+        "player": "HFR | Jisp",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "19517": {
+        "player": "Redd",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "49251": {
+        "player": "the government",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "92341": {
+        "player": "signify",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "668760": {
+        "player": "NEU | saucymain",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "559985": {
+        "player": "Certified",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "163263": {
+        "player": "interguy8",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "368003": {
+        "player": "ayeGiohh",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2134": {
+        "player": "OGAGO | Peter Griffin Quiggles",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "428128": {
+        "player": "FullSend | Mickz",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "821107": {
+        "player": "dang3r",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "33913": {
+        "player": "Orion",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "140965": {
+        "player": "N/a | C$",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "12874": {
+        "player": "+ | Nojump",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "295148": {
+        "player": "SparkinMed",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "458845": {
+        "player": "skyguy | jetBBL",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "64626": {
+        "player": "Rubicon",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "9854": {
+        "player": "Timebones",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "16089": {
+        "player": "Xtreme",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1338": {
+        "player": "Warriorknight",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "18171": {
+        "player": "<filthyf33t> | Sinist3r",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "35905": {
+        "player": "N12",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "27459": {
+        "player": "Focus",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "94471": {
+        "player": "AKUMA_PLAYER49",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2104795": {
+        "player": "vell",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "50203": {
+        "player": "natebug01",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "15110": {
+        "player": "DJoy",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "175433": {
+        "player": "skyguy | bag",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "17322": {
+        "player": "AyeVee",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "27566": {
+        "player": "RJ",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "835718": {
+        "player": "Chamchu",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "11304": {
+        "player": "Dublat",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "94352": {
+        "player": "Mono",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "149864": {
+        "player": "OUG | Electroman",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "4518": {
+        "player": "Silk | Den",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "8897": {
+        "player": "Austintacious",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "24304": {
+        "player": "Helix",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "812515": {
+        "player": "Tash",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "30146": {
+        "player": "WatchingTime",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "98152": {
+        "player": "Jammy",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "6170": {
+        "player": "sinbad",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "920676": {
+        "player": "Rob Jr. | Bilit",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1853911": {
+        "player": "skyguy | sevenholyblunts",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "27021": {
+        "player": "Karan",
+        "points": 8,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2064648": {
+        "player": "Espressotime",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1157043": {
+        "player": "Jah",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "9820": {
+        "player": "Bravo",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "365201": {
+        "player": "Takeshi",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "2022542": {
+        "player": "Bori",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "49555": {
+        "player": "LaFlarb",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1320678": {
+        "player": "Captain Virgil",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "221720": {
+        "player": "COFUG | iphone",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1068552": {
+        "player": "JP",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "15767": {
+        "player": "What.",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "788018": {
+        "player": "JigChu",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "55099": {
+        "player": "Wolven",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "381466": {
+        "player": "skyguy | Jsack",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "15112": {
+        "player": "APES | Saint 009",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "44473": {
+        "player": "a horse who can drive",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1157586": {
+        "player": "feminem",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "10102": {
+        "player": "Yeroc",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "28149": {
+        "player": "Erran",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1908869": {
+        "player": "NICK | PRIONBOIL",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1985407": {
+        "player": "MGA | bune",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "4374": {
+        "player": "Jask",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "86520": {
+        "player": "tomguy",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "94878": {
+        "player": "MATE | 22K",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1525037": {
+        "player": "lioX0X0",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "140113": {
+        "player": "Apes! | Jape",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "457874": {
+        "player": "charliemagne",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "43798": {
+        "player": "Schmang",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "83199": {
+        "player": "Spen Star",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "133819": {
+        "player": "Will of God",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "37617": {
+        "player": "spaceman",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "14268": {
+        "player": "Quadae",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "635677": {
+        "player": "wahshr",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "131745": {
+        "player": "Nimbus | Phteven",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "37961": {
+        "player": "Jscrub",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "49309": {
+        "player": "sheepy",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "136411": {
+        "player": "Hermit",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "13766": {
+        "player": "Kandayo",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "44150": {
+        "player": "FoodWorld",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "248200": {
+        "player": "Zuby",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1409207": {
+        "player": "GCB | cheeks",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "79089": {
+        "player": "Proga",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "442076": {
+        "player": "Blank",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "66411": {
+        "player": "JAZZ | Dolaire",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "2327673": {
+        "player": "GCB | Ryuk",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "31407": {
+        "player": "AShortBusPileup",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "591358": {
+        "player": "Carbon",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "12965": {
+        "player": "Vanishing Love",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1949161": {
+        "player": "jame$",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "259663": {
+        "player": "\u00fcba",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1400220": {
+        "player": "Peele",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "11821": {
+        "player": "Tubesssbm",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "848305": {
+        "player": "Big Matt",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "11341": {
+        "player": "Tipped Off | GAwes",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "86449": {
+        "player": "Ronan",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1917458": {
+        "player": "Love",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "11715": {
+        "player": "Browndude10",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1015744": {
+        "player": "Nera",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "556578": {
+        "player": "Badmouth",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "180366": {
+        "player": "Drunk",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "23205": {
+        "player": "Beanie Buttons | twotoestoto",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "12958": {
+        "player": "Sunrise",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "549163": {
+        "player": "cam",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "175538": {
+        "player": "spencie BBL effect",
+        "points": 3,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    }
+}

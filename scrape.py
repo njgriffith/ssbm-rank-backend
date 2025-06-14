@@ -65,13 +65,12 @@ def fetch_standings(event_id, per_page, url, api_headers):
 
         if "errors" in data:
             raise Exception(f"GraphQL error on page {page}: {data['errors']}")
-
         standings = data["data"]["event"]["standings"]
         results.extend([
             {
                 "placement": node["placement"],
                 "entrant_name": node["entrant"]["name"],
-                "user_id": node["entrant"]["participants"][0]["user"]["id"]
+                "user_id": str(int(node["entrant"]["participants"][0]["user"]["id"]))
                 if node["entrant"]["participants"] and node["entrant"]["participants"][0]["user"] else None
             } for node in standings["nodes"]
         ])
@@ -94,19 +93,23 @@ def save_to_csv(data, filename, event_id, event_date):
         writer.writerows(data)
 
 # --- Main Scraper ---
-def scrape(event_name):
+def scrape(tourney_name_code, event_name_code):
     token = ''
     with open("assets/auth/start-gg-token.txt", "r") as f:
       token = f.readline().strip()
-    SLUG = f"tournament/{event_name}/event/melee-singles"
     API_URL = "https://api.start.gg/gql/alpha"
     HEADERS = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}"
     }
-
-    event_id, event_date = get_event_id_and_date(SLUG, API_URL, HEADERS)
-    print(f"Got event: {event_name}, date: {event_date}")
+    try:
+        SLUG = f"tournament/{tourney_name_code}/event/{event_name_code}"
+        event_id, event_date = get_event_id_and_date(SLUG, API_URL, HEADERS)
+    except TypeError:
+        print('Error getting event: ', tourney_name_code)
+        return
+        
+    print(f"Got event: {tourney_name_code}, date: {event_date}")
     standings = fetch_standings(event_id, 100, API_URL, HEADERS)
-    save_to_csv(standings, f"assets/results/{event_name}_standings.csv", event_id, event_date)
-    print(f"Saved {len(standings)} entrants to {event_name}_standings.csv")
+    save_to_csv(standings, f"assets/results/{event_date[0:4]}/{tourney_name_code}_standings.csv", event_id, event_date)
+    print(f"Saved {len(standings)} entrants to {tourney_name_code}_standings.csv")
