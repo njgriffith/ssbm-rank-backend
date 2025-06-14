@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+.env.*
+venv/
+build/
+dist/
+.vscode/
+assets/auth/
+# Windows
+Thumbs.db

@@ -1,0 +1,4610 @@
+{
+    "8916": {
+        "player": "Liquid | Hungrybox",
+        "points": 2000,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 1,
+                "points": 2000
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 1,
+                "points": 2000
+            }
+        }
+    },
+    "14228": {
+        "player": "Trif",
+        "points": 1400,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 2,
+                "points": 1400
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 2,
+                "points": 1400
+            }
+        }
+    },
+    "1719": {
+        "player": "LG | Wizzrobe",
+        "points": 1000,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 3,
+                "points": 1000
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 3,
+                "points": 1000
+            }
+        }
+    },
+    "11097": {
+        "player": "C9 | Mang0",
+        "points": 800,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 4,
+                "points": 800
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 4,
+                "points": 800
+            }
+        }
+    },
+    "11403": {
+        "player": "L7 | Cody Schwab",
+        "points": 650,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 5,
+                "points": 650
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 5,
+                "points": 650
+            }
+        }
+    },
+    "75333": {
+        "player": "Salt",
+        "points": 650,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 5,
+                "points": 650
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 5,
+                "points": 650
+            }
+        }
+    },
+    "1672": {
+        "player": "SR | moky",
+        "points": 500,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 7,
+                "points": 500
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 7,
+                "points": 500
+            }
+        }
+    },
+    "10806": {
+        "player": "Tempo | Axe",
+        "points": 500,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 7,
+                "points": 500
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 7,
+                "points": 500
+            }
+        }
+    },
+    "53361": {
+        "player": "SR | Joshman",
+        "points": 360,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "26405": {
+        "player": "SDJ",
+        "points": 360,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "2150": {
+        "player": "Nouns | Junebug",
+        "points": 360,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "34391": {
+        "player": "Aura",
+        "points": 360,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 9,
+                "points": 360
+            }
+        }
+    },
+    "10563": {
+        "player": "FLY | Jmook",
+        "points": 260,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "182985": {
+        "player": "Nouns | Aklo",
+        "points": 260,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "10439": {
+        "player": "Lil | Plup",
+        "points": 260,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "86490": {
+        "player": "Spiral Cafe | Krudo",
+        "points": 260,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            }
+        }
+    },
+    "22302": {
+        "player": "Red Bull IFM | aMSa",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "222015": {
+        "player": "LG | Soonsay",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "182926": {
+        "player": "Ossify",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "52": {
+        "player": "Spark",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "10070": {
+        "player": "lloD",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "48446": {
+        "player": "Chickenman400",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "13104": {
+        "player": "RLE | mvlvchi",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "39160": {
+        "player": "MEOW | Maher",
+        "points": 180,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 17,
+                "points": 180
+            }
+        }
+    },
+    "2878": {
+        "player": "woo | Magi",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "24347": {
+        "player": "69% | Fiction",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "31364": {
+        "player": "Medz",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "18544": {
+        "player": "NOOT | Panda",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "15053": {
+        "player": "$EMPN | Zamu",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "483": {
+        "player": "Veggies | SFAT",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "42297": {
+        "player": "RC | mayb",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "95843": {
+        "player": "Project D | JoJo",
+        "points": 120,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 25,
+                "points": 120
+            }
+        }
+    },
+    "706893": {
+        "player": "Frostbyte",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "8968": {
+        "player": "S2J",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "8768": {
+        "player": "Mango's Friend | Lucky",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "1497261": {
+        "player": "LG | fitzy",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "394592": {
+        "player": "SSJ | Rocket",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "171588": {
+        "player": "Zanya",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "41180": {
+        "player": "Traplord",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "11004": {
+        "player": "LFTG | Logos",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "16679": {
+        "player": "UMF | Agent",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "8572": {
+        "player": "Mango's Friend | null",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "77088": {
+        "player": "RC | Kacey",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "155892": {
+        "player": "Grab",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "50268": {
+        "player": "Azel",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "1903": {
+        "player": "Jah Ridin'",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "16931": {
+        "player": "Slowking",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "1079250": {
+        "player": "Pbag | Graves",
+        "points": 80,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 33,
+                "points": 80
+            }
+        }
+    },
+    "482161": {
+        "player": "Mooshies",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "216765": {
+        "player": "Preeminent",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "160276": {
+        "player": "Fizzwiggle",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "467537": {
+        "player": "UWRF | Ben",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "1454349": {
+        "player": "Yoshicord | Daniel",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "10163": {
+        "player": "20GX | Gahtzu",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "20220": {
+        "player": "Nouns | Faust",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "1271": {
+        "player": "Espi",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "9071": {
+        "player": "MOJOE",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "9932": {
+        "player": "Umarth",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "382111": {
+        "player": "Bbatts",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "2648879": {
+        "player": "Nanami",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "3485": {
+        "player": "CF | JSalt",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "26481": {
+        "player": "Eggdog | Chango",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "582": {
+        "player": "MATE | Kalvar",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "194471": {
+        "player": "ABG | salami",
+        "points": 50,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 49,
+                "points": 50
+            }
+        }
+    },
+    "30225": {
+        "player": "OkamiBW",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "351384": {
+        "player": "CG | DannyPhantom",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "23397": {
+        "player": "Transplant",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "16666": {
+        "player": "netplayge | rainy",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "2595": {
+        "player": "Fuzzyness",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "591308": {
+        "player": "clich\u00e9",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "76147": {
+        "player": "GS | SubTails",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "42505": {
+        "player": "Grab2Win",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "143973": {
+        "player": "DMT",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "5097": {
+        "player": "dz",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "46781": {
+        "player": "404Cray",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "36054": {
+        "player": "Kwyet",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "89533": {
+        "player": "PML | Amida",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "137": {
+        "player": "MF | KJH",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "7050": {
+        "player": "ROK PUP | Voo",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "136608": {
+        "player": "Typhoon",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "86809": {
+        "player": "Dawson",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "6856": {
+        "player": "K8A",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "275369": {
+        "player": "CF | CPU0",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "28505": {
+        "player": "GUG | Vegas Matt",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "409": {
+        "player": "bonfire10",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "37860": {
+        "player": "Paladin",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "789": {
+        "player": "ABG | Zeo",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "303478": {
+        "player": "Brotherhood| | Foxy Grandpa",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "44920": {
+        "player": "Polo",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "1640387": {
+        "player": "max",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "8289": {
+        "player": "teccskill | nut",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "7115": {
+        "player": "69% | Kevbot",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "170698": {
+        "player": "12th | NOOT",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "2764": {
+        "player": "BUS | Juicebox",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "162095": {
+        "player": "Lowercase hero",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "193438": {
+        "player": "Sprite | Jiffy",
+        "points": 30,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 65,
+                "points": 30
+            }
+        }
+    },
+    "549715": {
+        "player": "SLO | GrizzlyBair",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "993422": {
+        "player": "Brutalrattle",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "405514": {
+        "player": "I'm Michael BTW",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "14172": {
+        "player": "darkwizard123",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "76": {
+        "player": "Azusa",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "10510": {
+        "player": "Bubbles",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "5183": {
+        "player": "Redis | The Leaf",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "188199": {
+        "player": "Negat!ve",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "74": {
+        "player": "Snap",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "739438": {
+        "player": "Goodie",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "16895": {
+        "player": "DarkGenex",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "19129": {
+        "player": "netplayge | LunarySSF2",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "5131": {
+        "player": "DayDream",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "283": {
+        "player": "Nintendude",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "92613": {
+        "player": "Aerius",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "94352": {
+        "player": "Mono",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1538122": {
+        "player": "ZSB fell OU | M1sf1re",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1635556": {
+        "player": "Alberto",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "526463": {
+        "player": "Jamie",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1219": {
+        "player": "Squid",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "51425": {
+        "player": "skyguy | Dusk",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "163185": {
+        "player": "JeD's Friend | Dynamite!",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "18267": {
+        "player": "Entropy | Luigi Ka-Master",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "773": {
+        "player": "Rocky",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "142098": {
+        "player": "CG | Casual",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "53704": {
+        "player": "Swiz",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "49282": {
+        "player": "Cubs",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "630747": {
+        "player": "Stiv",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "39729": {
+        "player": "PNUT | Iggy",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "1492275": {
+        "player": "OG Kid",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "561577": {
+        "player": "Janks",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "165475": {
+        "player": "CJ",
+        "points": 16,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 97,
+                "points": 16
+            }
+        }
+    },
+    "175701": {
+        "player": "$G|MP | Bank",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "160508": {
+        "player": "pkay",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "17106": {
+        "player": "BTE | Nuckels",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "513962": {
+        "player": "Mr. Moose",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "136077": {
+        "player": "skyguy | fknsilver",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "5116": {
+        "player": "Reesch",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "39603": {
+        "player": "dansdaman",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "994923": {
+        "player": "Melee Stats | s-f",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2643776": {
+        "player": "SaltInYourEye",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "679409": {
+        "player": "warme",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "15164": {
+        "player": "netplayge | :3",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "44286": {
+        "player": "I'm Cilan | Phillipinocchi0",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "28402": {
+        "player": "Hank",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "563994": {
+        "player": "CNH | PGH Fahey",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "176493": {
+        "player": "Omar",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "31047": {
+        "player": "Rick",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1416815": {
+        "player": "KcBlue",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "39992": {
+        "player": "Adwan",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "183839": {
+        "player": "Nimble",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "33001": {
+        "player": "Zander",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "32431": {
+        "player": "JAMEPS",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "597": {
+        "player": "TJGE | Megaman",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "8978": {
+        "player": "ycz6",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "6256": {
+        "player": "Iowndisgam",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "12614": {
+        "player": "Galen The Wise",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1414609": {
+        "player": "OBE | sumi",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "571051": {
+        "player": "Iron",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "635655": {
+        "player": "Phorox",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "38590": {
+        "player": "Fro116",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "368003": {
+        "player": "DASH | ayeGiohh",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "171192": {
+        "player": "VTown | Jhib",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "41702": {
+        "player": "Project",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "6733": {
+        "player": "DSJ",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "9996": {
+        "player": "deez",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "38699": {
+        "player": "Khalid",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "225461": {
+        "player": "Puppy",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "303437": {
+        "player": "Guex",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "26261": {
+        "player": "cardd",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "531324": {
+        "player": "SoJu",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2349575": {
+        "player": "UConn | kuro",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "181759": {
+        "player": "James Jr",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1027428": {
+        "player": "GUESS MONSTER",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "442": {
+        "player": "Rob jr. | Arcadia",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "8515": {
+        "player": "EXCELSIOR | homedawg",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "293010": {
+        "player": "Mustache Massacre",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "137656": {
+        "player": "RSC | JScott",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "297914": {
+        "player": "Castbros",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1814037": {
+        "player": "JV | DK Kid",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "24826": {
+        "player": "rusty",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "650036": {
+        "player": "Cubs | Defy",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "2665": {
+        "player": "Mova",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1343131": {
+        "player": "FOE | echelon | SLUMDOG",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "6948": {
+        "player": "yingling",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "302162": {
+        "player": "Cloud",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "50203": {
+        "player": "natebug01",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1144521": {
+        "player": "Nexo",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "668760": {
+        "player": "NEU | saucymain",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "4263": {
+        "player": "FireflyHI",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "452": {
+        "player": "HoG | Arty",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "12368": {
+        "player": "Opportunity",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "29717": {
+        "player": "Jeeemt",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "39946": {
+        "player": "coobs",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "1183": {
+        "player": "Notorious",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "804669": {
+        "player": "Melos",
+        "points": 8,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 129,
+                "points": 8
+            }
+        }
+    },
+    "195731": {
+        "player": "fiveman1",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "175538": {
+        "player": "spencie",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "275462": {
+        "player": "Cyclone",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "618047": {
+        "player": "Sweat",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "5925": {
+        "player": "Gaz!",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "38639": {
+        "player": "Slowpez",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "342813": {
+        "player": "ukemelee",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "11051": {
+        "player": "Violence",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "874": {
+        "player": "20,000 Lions",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "16919": {
+        "player": "smus",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "13766": {
+        "player": "Kandayo",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "3706": {
+        "player": "Blandeezy",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "283826": {
+        "player": "Future Shock",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "2017": {
+        "player": "K",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "19797": {
+        "player": "Light",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "9891": {
+        "player": "Abel",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1249025": {
+        "player": "Yaku",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "135496": {
+        "player": "noChill",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "8784": {
+        "player": "SRG | PurpleDolphin",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "688": {
+        "player": "Zbert",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "91794": {
+        "player": "papitwig",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "49572": {
+        "player": "kneeil",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "10717": {
+        "player": "BB | Walby",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "282206": {
+        "player": "F5 | God's Only Son",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "977688": {
+        "player": "jvac | BushyMushy",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "94228": {
+        "player": "Ex-Girlfriend",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "46124": {
+        "player": "Cherry | SpiderJew",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "21888": {
+        "player": "Floppy",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1210603": {
+        "player": "NOOT | | SquillyBobJoe",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "3854": {
+        "player": "Reno",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "283426": {
+        "player": "Slump",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "92705": {
+        "player": "tyo",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "977844": {
+        "player": "Monika | Rocks",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "3686": {
+        "player": "Frost",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "568770": {
+        "player": "Muscoman",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1871": {
+        "player": "ABG | Tonkatsu",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "628124": {
+        "player": "\u1d56\u02b3\u1d43\u207f\u1d43\u1d5b'\u02e2 \u1d56\u1d43\u02e1 | someone your own size",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "360588": {
+        "player": "Greenstach",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "135146": {
+        "player": "L7 | plush",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "40307": {
+        "player": "Poopy Ass",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "35832": {
+        "player": "Friend",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "33146": {
+        "player": "SF&S | Fat Chance",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "92630": {
+        "player": "RROB | Kirbstomp",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "131043": {
+        "player": "YB | Cruncho",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "32110": {
+        "player": "chels | Arban",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "859": {
+        "player": "GLS | Dirtboy",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1545424": {
+        "player": "OP | Hurricane",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "1538435": {
+        "player": "Jab",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "73852": {
+        "player": "Studebacher Hoch",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "144805": {
+        "player": "Loam",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "7820": {
+        "player": "Melo",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "61417": {
+        "player": "YB | Hot Dog Harold",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "18142": {
+        "player": "Maximus",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "31979": {
+        "player": "Denzill",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "349696": {
+        "player": "DE | Silvi",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "954": {
+        "player": "Okameed",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "162969": {
+        "player": "GetCrabby",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "554671": {
+        "player": "NSB  |  KXT",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "178716": {
+        "player": "D3rplyfe",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "141815": {
+        "player": "elzanto",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "4604": {
+        "player": "Galint | Dhir",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "215753": {
+        "player": "Dreyday | A Rogue Hotdog",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "87126": {
+        "player": "QTP",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    },
+    "179637": {
+        "player": "69% | Rebel Scum",
+        "points": 3,
+        "events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        },
+        "10_best_events": {
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 193,
+                "points": 3
+            }
+        }
+    }
+}

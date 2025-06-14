@@ -1,0 +1,121 @@
+import pandas as pd
+import json
+from datetime import date, datetime
+
+def update_rankings(event_name, event_classification):
+    print(f'Updating rankings for {event_name}')
+    df = pd.read_csv(f'assets/results/{event_name}_standings.csv')
+    last_place = max(df['placement'])
+    with open('assets/rankings/rank_data.json', 'r') as rank_file:
+        rank_data = json.load(rank_file)
+    with open('assets/tourney_classes.json') as classification_file:
+        classification_data = json.load(classification_file)
+    event_id = str(df.loc[0, 'event_id'])
+    event_date = str(df.loc[0, 'event_date'])
+
+    # entrant_id, entrant_name, placement
+    for _, row in df.iterrows():
+        if row['placement'] == last_place:
+            print('Outside bounds for point allocation, last place')
+            break
+        try:
+            points = int(classification_data[event_classification][str(row['placement'])])
+        except KeyError:
+            print('Outside bounds for point allocation')
+            break
+        new_event = {
+            event_id: {
+                "event_date": event_date,
+                "placement": row["placement"],
+                "points": points
+            }
+        }
+        # if existing player
+        user_id = str(row['user_id'])
+        if user_id in rank_data:
+            update_player_rank(rank_data[user_id], new_event)
+            rank_data[user_id]['player'] = row['entrant_name']
+
+        # else, new player
+        else:
+            new_player = {
+                "player": row['entrant_name'],
+                "points": points,
+                "events": new_event,
+                "10_best_events": new_event
+            }
+            rank_data[row['user_id']] = new_player
+    
+    print('Preliminary update complete')
+
+    expired_events = remove_expired_events(rank_data)
+    print(f'Removed expired events: {expired_events}')
+
+    sorted_data = dict(sorted(rank_data.items(), key=lambda item: int(item[1]["points"]), reverse=True))
+    print('Sorted rankings')
+
+    with open('assets/rankings/rank_data.json', 'w', encoding='utf-8') as rank_file:
+        json.dump(sorted_data, rank_file, indent=4)
+    with open(f'assets/rankings/{event_date}_rank_data.json', 'w', encoding='utf-8') as rank_file:
+        json.dump(sorted_data, rank_file, indent=4)
+
+
+def update_player_rank(player_data, new_event):
+    event_id, event_info = next(iter(new_event.items()))    
+    player_data.setdefault("events", {})[event_id] = event_info
+    new_points = int(event_info["points"])
+    best_events = player_data.setdefault("10_best_events", {})
+    
+    if len(best_events) < 10:
+        best_events[event_id] = event_info
+        player_data["points"] = int(player_data.get("points", 0)) + new_points
+        return
+
+    # Find current lowest scoring event in top 10
+    lowest_event_id, lowest_event_info = min(
+        best_events.items(), key=lambda item: int(item[1]["points"])
+    )
+
+    if new_points > int(lowest_event_info["points"]):
+        # Replace lowest-scoring event
+        del best_events[lowest_event_id]
+        best_events[event_id] = event_info
+
+        # Recalculate total points from best events
+        player_data["points"] = sum(int(e["points"]) for e in best_events.values())
+
+def remove_expired_events(data):
+    today = date.today()
+    try:
+        cutoff_date = today.replace(year=today.year - 1)
+    except ValueError:
+        # Handles February 29 edge case
+        cutoff_date = today.replace(month=2, day=28, year=today.year - 1)
+
+    expired_events = set()
+
+    for player_id, player_data in data.items():
+        new_events = {}
+        new_best_events = {}
+        new_points = 0
+
+        # Filter 'events'
+        for event_id, event in player_data.get("events", {}).items():
+            event_date = datetime.strptime(event["event_date"], "%Y-%m-%d").date()
+            if event_date > cutoff_date:
+                new_events[event_id] = event
+                new_points += int(event["points"])
+            else:
+                expired_events.add(event_id)
+
+        # Filter '10_best_events' by event_id
+        for event_id, event in player_data.get("10_best_events", {}).items():
+            if event_id not in expired_events:
+                new_best_events[event_id] = event
+
+        # Update player data
+        player_data["events"] = new_events
+        player_data["10_best_events"] = new_best_events
+        player_data["points"] = new_points
+
+    return expired_events
