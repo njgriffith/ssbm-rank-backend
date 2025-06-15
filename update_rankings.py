@@ -2,6 +2,8 @@ import pandas as pd
 import json
 from datetime import date, datetime
 
+NUM_BEST_EVENTS = 10
+
 def update_rankings(year, event_name, event_classification):
     print(f'Updating rankings for {event_name}')
     df = pd.read_csv(f'assets/results/{year}/{event_name}_standings.csv')
@@ -36,9 +38,11 @@ def update_rankings(year, event_name, event_classification):
         except ValueError:
             print(f'No user ID for {row}, skipping')
             continue
-        # Zain's alt
+        # Zain/jmmok alt
         if user_id == '2669494':
             user_id = '2616'
+        if user_id == '2636297':
+            user_id = '10563'
         if user_id in rank_data:
             update_player_rank(rank_data[user_id], new_event)
             rank_data[user_id]['player'] = row['entrant_name']
@@ -73,7 +77,7 @@ def update_player_rank(player_data, new_event):
     new_points = int(event_info["points"])
     best_events = player_data.setdefault("10_best_events", {})
     
-    if len(best_events) < 10:
+    if len(best_events) < NUM_BEST_EVENTS:
         best_events[event_id] = event_info
         player_data["points"] = int(player_data.get("points", 0)) + new_points
         return
@@ -123,7 +127,7 @@ def remove_expired_events(data):
         # Update player data
         player_data["events"] = new_events
         player_data["10_best_events"] = new_best_events
-        player_data["points"] = new_points
+        player_data["points"] = sum(int(event["points"]) for event in new_best_events.values())
         if new_points == 0:
             players_to_remove.append(player_id)
     print(f'Removing {len(players_to_remove)} inactive players')

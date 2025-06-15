@@ -18,6 +18,7 @@ events_2025 = [
     ['genesis-x2', 'melee-singles', SUPER_MAJOR],
     ['battle-of-bc-7-6', 'main-event-melee-singles', SUPER_MAJOR],
     ['nouns-bowl-2025', 'melee-singles', SUPER_MAJOR],
+    # ['valhalla-v', 'main-melee-singles', MAJOR],
     ['full-house-2025', 'main-bracket', SUPER_INVITATIONAL],
     ['tipped-off-16-safari', 'melee-singles', SUPER_MAJOR]
 ]
@@ -34,9 +35,11 @@ events_2024 = [
     ['riptide-2024-5', 'melee-singles', SUPER_MAJOR],
     ['wavelength-2024', 'melee-singles', SUPER_MAJOR],
     ['luminosity-makes-moves-miami-2024', 'melee-singles', SUPER_MAJOR],
+    # ['sapf', 'melee-singles', MAJOR],
     ['don-t-park-on-the-grass-2024', 'melee-singles', SUPER_MAJOR],
     ['nounsvitational-2024', 'melee-singles', SUPER_INVITATIONAL]
 ]
+
 
 for event in events_2024:
     update_ssbm_rank('2024', event)
@@ -50,5 +53,7 @@ with open('assets/rankings/rank_data.json', 'r') as rank_file:
     for player in rank_data:
         print(f'{i}. {rank_data[player]['player']} --> {rank_data[player]['points']} pts')
         i += 1
-        if i > 100:
+        if player == "80454":
+            print(player, i)
             break
+        

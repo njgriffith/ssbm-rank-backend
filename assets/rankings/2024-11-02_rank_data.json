@@ -395,6 +395,64 @@
             }
         }
     },
+    "10563": {
+        "player": "FLY | Jmook",
+        "points": 1950,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            },
+            "1139035": {
+                "event_date": "2024-08-08",
+                "placement": 13,
+                "points": 260
+            },
+            "1068593": {
+                "event_date": "2024-09-07",
+                "placement": 17,
+                "points": 180
+            },
+            "1163672": {
+                "event_date": "2024-10-05",
+                "placement": 9,
+                "points": 360
+            },
+            "1151660": {
+                "event_date": "2024-11-02",
+                "placement": 7,
+                "points": 500
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            },
+            "1139035": {
+                "event_date": "2024-08-08",
+                "placement": 13,
+                "points": 260
+            },
+            "1068593": {
+                "event_date": "2024-09-07",
+                "placement": 17,
+                "points": 180
+            },
+            "1163672": {
+                "event_date": "2024-10-05",
+                "placement": 9,
+                "points": 360
+            },
+            "1151660": {
+                "event_date": "2024-11-02",
+                "placement": 7,
+                "points": 500
+            }
+        }
+    },
     "22302": {
         "player": "Red Bull IFM | aMSa",
         "points": 1900,
@@ -650,54 +708,6 @@
                 "event_date": "2024-11-02",
                 "placement": 5,
                 "points": 650
-            }
-        }
-    },
-    "10563": {
-        "player": "FLY | Jmook",
-        "points": 1450,
-        "events": {
-            "1024594": {
-                "event_date": "2024-06-15",
-                "placement": 5,
-                "points": 650
-            },
-            "1139035": {
-                "event_date": "2024-08-08",
-                "placement": 13,
-                "points": 260
-            },
-            "1068593": {
-                "event_date": "2024-09-07",
-                "placement": 17,
-                "points": 180
-            },
-            "1163672": {
-                "event_date": "2024-10-05",
-                "placement": 9,
-                "points": 360
-            }
-        },
-        "10_best_events": {
-            "1024594": {
-                "event_date": "2024-06-15",
-                "placement": 5,
-                "points": 650
-            },
-            "1139035": {
-                "event_date": "2024-08-08",
-                "placement": 13,
-                "points": 260
-            },
-            "1068593": {
-                "event_date": "2024-09-07",
-                "placement": 17,
-                "points": 180
-            },
-            "1163672": {
-                "event_date": "2024-10-05",
-                "placement": 9,
-                "points": 360
             }
         }
     },
@@ -1284,24 +1294,6 @@
         "10_best_events": {
             "1139035": {
                 "event_date": "2024-08-08",
-                "placement": 7,
-                "points": 500
-            }
-        }
-    },
-    "2636297": {
-        "player": "FLY | Jmook",
-        "points": 500,
-        "events": {
-            "1151660": {
-                "event_date": "2024-11-02",
-                "placement": 7,
-                "points": 500
-            }
-        },
-        "10_best_events": {
-            "1151660": {
-                "event_date": "2024-11-02",
                 "placement": 7,
                 "points": 500
             }

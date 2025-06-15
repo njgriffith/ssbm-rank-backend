@@ -1,7 +1,7 @@
 {
     "11403": {
         "player": "Cody Schwab",
-        "points": 14250,
+        "points": 13750,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -114,7 +114,7 @@
     },
     "2616": {
         "player": "Zain",
-        "points": 13710,
+        "points": 13350,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -227,7 +227,7 @@
     },
     "8916": {
         "player": "Liquid | Hungrybox",
-        "points": 9190,
+        "points": 9110,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -448,7 +448,7 @@
     },
     "182985": {
         "player": "Nouns | Aklo",
-        "points": 7910,
+        "points": 7470,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -566,7 +566,7 @@
     },
     "1672": {
         "player": "SR | moky",
-        "points": 7515,
+        "points": 7335,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -679,7 +679,7 @@
     },
     "53361": {
         "player": "SR | Joshman",
-        "points": 6075,
+        "points": 5815,
         "events": {
             "1024594": {
                 "event_date": "2024-06-15",
@@ -787,6 +787,119 @@
                 "event_date": "2025-05-16",
                 "placement": 7,
                 "points": 375
+            }
+        }
+    },
+    "10563": {
+        "player": "FLY | Jmook",
+        "points": 4870,
+        "events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            },
+            "1139035": {
+                "event_date": "2024-08-08",
+                "placement": 13,
+                "points": 260
+            },
+            "1068593": {
+                "event_date": "2024-09-07",
+                "placement": 17,
+                "points": 180
+            },
+            "1163672": {
+                "event_date": "2024-10-05",
+                "placement": 9,
+                "points": 360
+            },
+            "1151660": {
+                "event_date": "2024-11-02",
+                "placement": 7,
+                "points": 500
+            },
+            "1103262": {
+                "event_date": "2024-11-16",
+                "placement": 9,
+                "points": 360
+            },
+            "1228103": {
+                "event_date": "2024-12-08",
+                "placement": 3,
+                "points": 850
+            },
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            },
+            "1258475": {
+                "event_date": "2025-03-28",
+                "placement": 4,
+                "points": 800
+            },
+            "1293979": {
+                "event_date": "2025-04-26",
+                "placement": 5,
+                "points": 650
+            },
+            "1302306": {
+                "event_date": "2025-06-07",
+                "placement": 25,
+                "points": 120
+            }
+        },
+        "10_best_events": {
+            "1024594": {
+                "event_date": "2024-06-15",
+                "placement": 5,
+                "points": 650
+            },
+            "1139035": {
+                "event_date": "2024-08-08",
+                "placement": 13,
+                "points": 260
+            },
+            "1068593": {
+                "event_date": "2024-09-07",
+                "placement": 17,
+                "points": 180
+            },
+            "1163672": {
+                "event_date": "2024-10-05",
+                "placement": 9,
+                "points": 360
+            },
+            "1151660": {
+                "event_date": "2024-11-02",
+                "placement": 7,
+                "points": 500
+            },
+            "1103262": {
+                "event_date": "2024-11-16",
+                "placement": 9,
+                "points": 360
+            },
+            "1228103": {
+                "event_date": "2024-12-08",
+                "placement": 3,
+                "points": 850
+            },
+            "1229459": {
+                "event_date": "2025-02-14",
+                "placement": 13,
+                "points": 260
+            },
+            "1258475": {
+                "event_date": "2025-03-28",
+                "placement": 4,
+                "points": 800
+            },
+            "1293979": {
+                "event_date": "2025-04-26",
+                "placement": 5,
+                "points": 650
             }
         }
     },
@@ -855,104 +968,6 @@
                 "event_date": "2025-06-07",
                 "placement": 4,
                 "points": 800
-            }
-        }
-    },
-    "10563": {
-        "player": "FLY | Jmook",
-        "points": 3640,
-        "events": {
-            "1024594": {
-                "event_date": "2024-06-15",
-                "placement": 5,
-                "points": 650
-            },
-            "1139035": {
-                "event_date": "2024-08-08",
-                "placement": 13,
-                "points": 260
-            },
-            "1068593": {
-                "event_date": "2024-09-07",
-                "placement": 17,
-                "points": 180
-            },
-            "1163672": {
-                "event_date": "2024-10-05",
-                "placement": 9,
-                "points": 360
-            },
-            "1103262": {
-                "event_date": "2024-11-16",
-                "placement": 9,
-                "points": 360
-            },
-            "1229459": {
-                "event_date": "2025-02-14",
-                "placement": 13,
-                "points": 260
-            },
-            "1258475": {
-                "event_date": "2025-03-28",
-                "placement": 4,
-                "points": 800
-            },
-            "1293979": {
-                "event_date": "2025-04-26",
-                "placement": 5,
-                "points": 650
-            },
-            "1302306": {
-                "event_date": "2025-06-07",
-                "placement": 25,
-                "points": 120
-            }
-        },
-        "10_best_events": {
-            "1024594": {
-                "event_date": "2024-06-15",
-                "placement": 5,
-                "points": 650
-            },
-            "1139035": {
-                "event_date": "2024-08-08",
-                "placement": 13,
-                "points": 260
-            },
-            "1068593": {
-                "event_date": "2024-09-07",
-                "placement": 17,
-                "points": 180
-            },
-            "1163672": {
-                "event_date": "2024-10-05",
-                "placement": 9,
-                "points": 360
-            },
-            "1103262": {
-                "event_date": "2024-11-16",
-                "placement": 9,
-                "points": 360
-            },
-            "1229459": {
-                "event_date": "2025-02-14",
-                "placement": 13,
-                "points": 260
-            },
-            "1258475": {
-                "event_date": "2025-03-28",
-                "placement": 4,
-                "points": 800
-            },
-            "1293979": {
-                "event_date": "2025-04-26",
-                "placement": 5,
-                "points": 650
-            },
-            "1302306": {
-                "event_date": "2025-06-07",
-                "placement": 25,
-                "points": 120
             }
         }
     },
@@ -2151,34 +2166,6 @@
                 "event_date": "2025-06-07",
                 "placement": 33,
                 "points": 80
-            }
-        }
-    },
-    "2636297": {
-        "player": "FLY | Jmook",
-        "points": 1350,
-        "events": {
-            "1151660": {
-                "event_date": "2024-11-02",
-                "placement": 7,
-                "points": 500
-            },
-            "1228103": {
-                "event_date": "2024-12-08",
-                "placement": 3,
-                "points": 850
-            }
-        },
-        "10_best_events": {
-            "1151660": {
-                "event_date": "2024-11-02",
-                "placement": 7,
-                "points": 500
-            },
-            "1228103": {
-                "event_date": "2024-12-08",
-                "placement": 3,
-                "points": 850
             }
         }
     },
