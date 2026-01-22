@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-# --- Step 1: Get Event ID and Date from Slug ---
+# 1. get event id and date
 def get_event_id_and_date(slug, API_URL, HEADERS):
     query = """
     query GetEventId($slug: String!) {
@@ -25,7 +25,7 @@ def get_event_id_and_date(slug, API_URL, HEADERS):
     event_date = time.strftime('%Y-%m-%d', time.localtime(event["startAt"]))
     return event_id, event_date
 
-# --- Step 2: Fetch Standings in Pages ---
+# 2. get standings
 def fetch_standings(event_id, per_page, url, api_headers):
     query = """
     query EventStandings($eventId: ID!, $page: Int!, $perPage: Int!) {
@@ -82,7 +82,7 @@ def fetch_standings(event_id, per_page, url, api_headers):
 
     return results
 
-# --- Step 3: Save to CSV ---
+# save standings to csv
 def save_to_csv(data, filename, event_id, event_date):
     for row in data:
         row["event_id"] = event_id
@@ -92,7 +92,7 @@ def save_to_csv(data, filename, event_id, event_date):
         writer.writeheader()
         writer.writerows(data)
 
-# --- Main Scraper ---
+# main scraper
 def scrape(tourney_name_code, event_name_code):
     token = ''
     with open("assets/auth/start-gg-token.txt", "r") as f:

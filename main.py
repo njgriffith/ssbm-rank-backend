@@ -12,15 +12,21 @@ def update_ssbm_rank(year, event_data):
 SUPER_MAJOR = 'super_major'
 MAJOR = 'major'
 SUPER_INVITATIONAL = 'super_invitational'
+SUPER_REGIONAL = 'super-regional'
 
 
 events_2025 = [
     ['genesis-x2', 'melee-singles', SUPER_MAJOR],
-    ['battle-of-bc-7-6', 'main-event-melee-singles', SUPER_MAJOR],
-    ['nouns-bowl-2025', 'melee-singles', SUPER_MAJOR],
-    # ['valhalla-v', 'main-melee-singles', MAJOR],
+    ['battle-of-bc-7-6', 'main-event-melee-singles', MAJOR],
+    ['nouns-bowl-2025', 'melee-singles', MAJOR],
+    ['valhalla-v', 'main-melee-singles', SUPER_REGIONAL],
     ['full-house-2025', 'main-bracket', SUPER_INVITATIONAL],
-    ['tipped-off-16-safari', 'melee-singles', SUPER_MAJOR]
+    ['tipped-off-16-safari', 'melee-singles', SUPER_MAJOR],
+    ['get-on-my-level-forever-canadian-fighting-game-championships', 'super-smash-bros-melee-singles', SUPER_MAJOR],
+    ['supernova-2025', 'melee-1v1-singles', SUPER_MAJOR],
+    ['collision-2025-8', 'melee-singles', SUPER_MAJOR],
+    ['riptide-2025-4', 'melee-singles', MAJOR],
+    ['nounsvitational-2025-tokyo', 'melee-singles', SUPER_INVITATIONAL]
 ]
 
 events_2024 = [
@@ -41,19 +47,27 @@ events_2024 = [
 ]
 
 
-for event in events_2024:
-    update_ssbm_rank('2024', event)
+# for event in events_2024:
+#     update_ssbm_rank('2024', event)
 
-for event in events_2025:
-    update_ssbm_rank('2025', event)
+# for event in events_2025:
+#     update_ssbm_rank('2025', event)
 
-with open('assets/rankings/rank_data.json', 'r') as rank_file:
-    rank_data = json.load(rank_file)
-    i=1
-    for player in rank_data:
-        print(f'{i}. {rank_data[player]['player']} --> {rank_data[player]['points']} pts')
-        i += 1
-        if player == "80454":
-            print(player, i)
-            break
-        
+def print_rankings(n):
+    with open('assets/rankings/rank_data.json', 'r') as rank_file:
+        rank_data = json.load(rank_file)
+        i=1
+        for player in rank_data:
+            print(f'{i}. {rank_data[player]['player']} --> {rank_data[player]['points']} pts ({len(rank_data[player]['events'].keys())} events entered)')
+
+            if i > 90 :
+                print('\tDetails:')
+                for event in sorted(rank_data[player]['best_events'].values(),
+                    key=lambda item: item["points"], reverse=True):
+                    print(f'\t\tEvent: {event['event_name']}, Placement: {event['placement']}, Points Awarded: {event['points']}')
+
+            i += 1
+            if i > n:
+                break
+
+print_rankings(100)

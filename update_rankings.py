@@ -1,11 +1,12 @@
 import pandas as pd
 import json
 from datetime import date, datetime
+import math
 
 NUM_BEST_EVENTS = 10
 
 def update_rankings(year, event_name, event_classification):
-    print(f'Updating rankings for {event_name}')
+    print(f'\nSTART: Updating rankings for {event_name}')
     df = pd.read_csv(f'assets/results/{year}/{event_name}_standings.csv')
     last_place = max(df['placement'])
     with open('assets/rankings/rank_data.json', 'r') as rank_file:
@@ -17,7 +18,7 @@ def update_rankings(year, event_name, event_classification):
 
     # entrant_id, entrant_name, placement
     for _, row in df.iterrows():
-        if row['placement'] == last_place:
+        if row['placement'] == last_place and ('INVITATIONAL' not in event_classification):
             print('Outside bounds for point allocation, last place')
             break
         try:
@@ -27,6 +28,7 @@ def update_rankings(year, event_name, event_classification):
             break
         new_event = {
             event_id: {
+                "event_name": event_name,
                 "event_date": event_date,
                 "placement": row["placement"],
                 "points": points
@@ -36,8 +38,12 @@ def update_rankings(year, event_name, event_classification):
         try:
             user_id = str(int(row['user_id']))
         except ValueError:
-            print(f'No user ID for {row}, skipping')
+            print(f'No user ID for {row}, creating new player')
             continue
+        
+        # null
+        if user_id == '8572':
+            row['entrant_name'] = 'null'
         # Zain/jmmok alt
         if user_id == '2669494':
             user_id = '2616'
@@ -45,6 +51,7 @@ def update_rankings(year, event_name, event_classification):
             user_id = '10563'
         if user_id in rank_data:
             update_player_rank(rank_data[user_id], new_event)
+            # update gamertag to latest
             rank_data[user_id]['player'] = row['entrant_name']
 
         # else, new player
@@ -53,13 +60,13 @@ def update_rankings(year, event_name, event_classification):
                 "player": row['entrant_name'],
                 "points": points,
                 "events": new_event,
-                "10_best_events": new_event
+                "best_events": new_event
             }
             rank_data[user_id] = new_player
     
     print('Preliminary update complete')
 
-    expired_events = remove_expired_events(rank_data)
+    expired_events = remove_expired_events(rank_data, event_date)
     print(f'Removed expired events: {expired_events}')
 
     sorted_data = dict(sorted(rank_data.items(), key=lambda item: int(item[1]["points"]), reverse=True))
@@ -69,13 +76,14 @@ def update_rankings(year, event_name, event_classification):
         json.dump(sorted_data, rank_file, indent=4)
     with open(f'assets/rankings/{event_date}_rank_data.json', 'w', encoding='utf-8') as rank_file:
         json.dump(sorted_data, rank_file, indent=4)
+    print(f'END: Updating rankings for {event_name}\n')
 
 
 def update_player_rank(player_data, new_event):
     event_id, event_info = next(iter(new_event.items()))    
     player_data.setdefault("events", {})[event_id] = event_info
     new_points = int(event_info["points"])
-    best_events = player_data.setdefault("10_best_events", {})
+    best_events = player_data.setdefault("best_events", {})
     
     if len(best_events) < NUM_BEST_EVENTS:
         best_events[event_id] = event_info
@@ -88,15 +96,15 @@ def update_player_rank(player_data, new_event):
     )
 
     if new_points > int(lowest_event_info["points"]):
-        # Replace lowest-scoring event
+        # Replace lowest scoring event
         del best_events[lowest_event_id]
         best_events[event_id] = event_info
 
         # Recalculate total points from best events
         player_data["points"] = sum(int(e["points"]) for e in best_events.values())
 
-def remove_expired_events(data):
-    today = date.today()
+def remove_expired_events(data, event_date):
+    today = date.fromisoformat(event_date)
     try:
         cutoff_date = today.replace(year=today.year - 1)
     except ValueError:
@@ -119,14 +127,14 @@ def remove_expired_events(data):
             else:
                 expired_events.add(event_id)
 
-        # Filter '10_best_events' by event_id
-        for event_id, event in player_data.get("10_best_events", {}).items():
+        # Filter 'best_events' by event_id
+        for event_id, event in player_data.get("best_events", {}).items():
             if event_id not in expired_events:
                 new_best_events[event_id] = event
 
         # Update player data
         player_data["events"] = new_events
-        player_data["10_best_events"] = new_best_events
+        player_data["best_events"] = new_best_events
         player_data["points"] = sum(int(event["points"]) for event in new_best_events.values())
         if new_points == 0:
             players_to_remove.append(player_id)

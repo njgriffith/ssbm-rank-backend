@@ -1,7 +1,7 @@
 {
     "2616": {
         "player": "Zain",
-        "points": 10430,
+        "points": 10930,
         "events": {
             "1258475": {
                 "event_name": "battle-of-bc-7-6",
@@ -150,12 +150,18 @@
                 "event_date": "2025-04-26",
                 "placement": 9,
                 "points": 180
+            },
+            "1310561": {
+                "event_name": "full-house-2025",
+                "event_date": "2025-05-16",
+                "placement": 5,
+                "points": 500
             }
         }
     },
     "11403": {
-        "player": "Cody Schwab",
-        "points": 9450,
+        "player": "FizzyBrax | Cody Schwab",
+        "points": 10100,
         "events": {
             "1229459": {
                 "event_name": "genesis-x2",
@@ -298,12 +304,18 @@
                 "event_date": "2025-02-14",
                 "placement": 5,
                 "points": 650
+            },
+            "1243598": {
+                "event_name": "get-on-my-level-forever-canadian-fighting-game-championships",
+                "event_date": "2025-07-05",
+                "placement": 5,
+                "points": 650
             }
         }
     },
     "8916": {
         "player": "Liquid | Hungrybox",
-        "points": 7800,
+        "points": 7880,
         "events": {
             "1229459": {
                 "event_name": "genesis-x2",
@@ -440,6 +452,12 @@
                 "event_date": "2025-12-05",
                 "placement": 4,
                 "points": 650
+            },
+            "1302306": {
+                "event_name": "tipped-off-16-safari",
+                "event_date": "2025-06-07",
+                "placement": 33,
+                "points": 80
             }
         }
     },
@@ -587,7 +605,7 @@
     },
     "1672": {
         "player": "SR | moky",
-        "points": 3485,
+        "points": 3665,
         "events": {
             "1229459": {
                 "event_name": "genesis-x2",
@@ -730,12 +748,18 @@
                 "event_date": "2025-03-28",
                 "placement": 17,
                 "points": 90
+            },
+            "1302306": {
+                "event_name": "tipped-off-16-safari",
+                "event_date": "2025-06-07",
+                "placement": 17,
+                "points": 180
             }
         }
     },
     "10563": {
         "player": "FLY | Jmook",
-        "points": 3305,
+        "points": 3425,
         "events": {
             "1229459": {
                 "event_name": "genesis-x2",
@@ -866,12 +890,18 @@
                 "event_date": "2025-12-05",
                 "placement": 2,
                 "points": 1100
+            },
+            "1302306": {
+                "event_name": "tipped-off-16-safari",
+                "event_date": "2025-06-07",
+                "placement": 25,
+                "points": 120
             }
         }
     },
     "10806": {
         "player": "Tempo | Axe",
-        "points": 3215,
+        "points": 3395,
         "events": {
             "1229459": {
                 "event_name": "genesis-x2",
@@ -1014,11 +1044,17 @@
                 "event_date": "2025-04-26",
                 "placement": 9,
                 "points": 180
+            },
+            "1302306": {
+                "event_name": "tipped-off-16-safari",
+                "event_date": "2025-06-07",
+                "placement": 17,
+                "points": 180
             }
         }
     },
     "26405": {
-        "player": "SDJ",
+        "player": "FAHEYGANG | SDJ",
         "points": 2895,
         "events": {
             "1229459": {
@@ -1148,7 +1184,7 @@
         }
     },
     "14228": {
-        "player": "Trif",
+        "player": "Free Agent | Trif",
         "points": 2810,
         "events": {
             "1229459": {
@@ -1690,7 +1726,7 @@
         }
     },
     "86490": {
-        "player": "Krudo",
+        "player": "Spiral | Krudo",
         "points": 2010,
         "events": {
             "1229459": {
@@ -1808,7 +1844,7 @@
         }
     },
     "12872": {
-        "player": "Nouns | Nicki",
+        "player": "Nicki",
         "points": 1865,
         "events": {
             "1293979": {
@@ -2338,7 +2374,7 @@
         }
     },
     "52": {
-        "player": "Spark",
+        "player": "skrat's friend | Spark",
         "points": 1380,
         "events": {
             "1229459": {
@@ -2856,7 +2892,7 @@
         }
     },
     "439608": {
-        "player": "Nouns | MOF",
+        "player": "LIL|Spiral | MOF",
         "points": 890,
         "events": {
             "1293979": {
@@ -2938,7 +2974,7 @@
         }
     },
     "15053": {
-        "player": "$EMPN | Zamu",
+        "player": "Zamu",
         "points": 880,
         "events": {
             "1229459": {
@@ -3102,7 +3138,7 @@
         }
     },
     "467537": {
-        "player": "UWRF | Ben",
+        "player": "Ben",
         "points": 760,
         "events": {
             "1229459": {
@@ -3348,7 +3384,7 @@
         }
     },
     "388": {
-        "player": "Morsecode762",
+        "player": "Milk | Morsecode762",
         "points": 660,
         "events": {
             "1243598": {
@@ -3540,7 +3576,7 @@
         }
     },
     "16679": {
-        "player": "L7 | Agent",
+        "player": "Agent",
         "points": 570,
         "events": {
             "1229459": {
@@ -3658,7 +3694,7 @@
         }
     },
     "171588": {
-        "player": "Zanya",
+        "player": "upstate | Zanya",
         "points": 520,
         "events": {
             "1229459": {
@@ -3968,7 +4004,7 @@
         }
     },
     "31513": {
-        "player": "CF | Kevin Maples",
+        "player": "Kevin Maples",
         "points": 500,
         "events": {
             "1243598": {
@@ -4232,7 +4268,7 @@
         }
     },
     "476646": {
-        "player": "Chem",
+        "player": "BLE | Chem",
         "points": 480,
         "events": {
             "1302306": {
@@ -4426,7 +4462,7 @@
         }
     },
     "24347": {
-        "player": "Fiction",
+        "player": "69% | Fiction",
         "points": 420,
         "events": {
             "1229459": {
@@ -4490,7 +4526,7 @@
         }
     },
     "39160": {
-        "player": "NOUNS | Maher",
+        "player": "Maher",
         "points": 395,
         "events": {
             "1229459": {
@@ -4754,7 +4790,7 @@
         }
     },
     "7115": {
-        "player": "69% | Kevbot",
+        "player": "Kevbot",
         "points": 340,
         "events": {
             "1229459": {
@@ -4972,7 +5008,7 @@
         }
     },
     "48446": {
-        "player": "Chickenman400",
+        "player": "CTRL | Chickenman400",
         "points": 330,
         "events": {
             "1229459": {
@@ -5630,7 +5666,7 @@
         }
     },
     "172392": {
-        "player": "Mot$",
+        "player": "Bleppi.shopBLE | Mot$",
         "points": 290,
         "events": {
             "1302306": {
@@ -6022,7 +6058,7 @@
         }
     },
     "26481": {
-        "player": "Eggdog | Chango",
+        "player": "Chango",
         "points": 280,
         "events": {
             "1229459": {
@@ -6204,7 +6240,7 @@
         }
     },
     "90114": {
-        "player": "Inky",
+        "player": "The Peak/Local | Inky",
         "points": 270,
         "events": {
             "1258475": {
@@ -6342,7 +6378,7 @@
         }
     },
     "48710": {
-        "player": "Nouns | Beezy",
+        "player": "TXH | Beezy",
         "points": 260,
         "events": {
             "1258475": {
@@ -6856,7 +6892,7 @@
         }
     },
     "98230": {
-        "player": ":3 | Jude",
+        "player": "DAD | :3 | Jude",
         "points": 236,
         "events": {
             "1293979": {
@@ -7366,7 +7402,7 @@
         }
     },
     "31971": {
-        "player": "Local | mgmg",
+        "player": "VV | mgmg",
         "points": 210,
         "events": {
             "1293979": {
@@ -7678,7 +7714,7 @@
         }
     },
     "1538122": {
-        "player": "ZSB fell OU | M1sf1re",
+        "player": "M1sf1re",
         "points": 199,
         "events": {
             "1229459": {
@@ -7860,7 +7896,7 @@
         }
     },
     "630747": {
-        "player": "ASS | Stiv",
+        "player": "[ass] | Stiv",
         "points": 186,
         "events": {
             "1229459": {
@@ -8152,7 +8188,7 @@
         }
     },
     "44920": {
-        "player": "Polo",
+        "player": "306 | Polo",
         "points": 170,
         "events": {
             "1229459": {
@@ -8326,7 +8362,7 @@
         }
     },
     "138306": {
-        "player": "MN | Iexor",
+        "player": "lexor",
         "points": 170,
         "events": {
             "1302306": {
@@ -8528,7 +8564,7 @@
         }
     },
     "18348": {
-        "player": "irfan",
+        "player": "Nouns | irfan",
         "points": 160,
         "events": {
             "1243598": {
@@ -8738,7 +8774,7 @@
         }
     },
     "591308": {
-        "player": "clich\u00e9",
+        "player": "Steech | clich\u00e9",
         "points": 150,
         "events": {
             "1229459": {
@@ -9168,7 +9204,7 @@
         }
     },
     "80454": {
-        "player": "RC | Rikzz",
+        "player": "Nouns | Rikzz",
         "points": 130,
         "events": {
             "1302306": {
@@ -9738,7 +9774,7 @@
         }
     },
     "35700": {
-        "player": "Local | BING",
+        "player": "BING",
         "points": 110,
         "events": {
             "1293979": {
@@ -9876,7 +9912,7 @@
         }
     },
     "4400": {
-        "player": "Fable",
+        "player": "Echelon | Fable",
         "points": 110,
         "events": {
             "1302306": {
@@ -10544,7 +10580,7 @@
         }
     },
     "28714": {
-        "player": "TheAsianOne",
+        "player": "SIG | TheAsianOne",
         "points": 94,
         "events": {
             "1243598": {
@@ -10700,7 +10736,7 @@
         }
     },
     "11551": {
-        "player": "stavino",
+        "player": "Doc Discord <3 | stavino",
         "points": 90,
         "events": {
             "1302306": {
@@ -10764,7 +10800,7 @@
         }
     },
     "2764": {
-        "player": "BUS | Juicebox",
+        "player": "GLC BUS | Juicebox",
         "points": 88,
         "events": {
             "1229459": {
@@ -10910,7 +10946,7 @@
         }
     },
     "35884": {
-        "player": "THE LOCAL | erik...",
+        "player": "erik...",
         "points": 85,
         "events": {
             "1293979": {
@@ -11602,7 +11638,7 @@
         }
     },
     "1481029": {
-        "player": "PSU | lumor",
+        "player": "lumor",
         "points": 75,
         "events": {
             "1243598": {
@@ -12060,7 +12096,7 @@
         }
     },
     "668760": {
-        "player": "NEU | saucymain",
+        "player": "saucymain",
         "points": 66,
         "events": {
             "1229459": {
@@ -12462,7 +12498,7 @@
         }
     },
     "16666": {
-        "player": "netplayge | rainy",
+        "player": "rainy",
         "points": 60,
         "events": {
             "1229459": {
@@ -12804,7 +12840,7 @@
         }
     },
     "977844": {
-        "player": "Monika | Rocks",
+        "player": "Rocks",
         "points": 59,
         "events": {
             "1229459": {
@@ -13216,7 +13252,7 @@
         }
     },
     "368003": {
-        "player": "ayeGiohh",
+        "player": "DASH | ayeGiohh",
         "points": 55,
         "events": {
             "1229459": {
@@ -13298,7 +13334,7 @@
         }
     },
     "2134": {
-        "player": "OGAGO | Blue-Eyes White Quiggles",
+        "player": "Blue-Eyes White Quiggles",
         "points": 55,
         "events": {
             "1258475": {
@@ -14306,7 +14342,7 @@
         }
     },
     "2279873": {
-        "player": "4Qs | Fred Melee",
+        "player": "4Qs | FM",
         "points": 46,
         "events": {
             "1243598": {
@@ -14416,7 +14452,7 @@
         }
     },
     "42562": {
-        "player": "S+Hiro",
+        "player": "SLTE BLEintern | S+Hiro",
         "points": 46,
         "events": {
             "1243598": {
@@ -16134,7 +16170,7 @@
         }
     },
     "945758": {
-        "player": "VDL | Maeve",
+        "player": "VDL | COFUG | Bridget",
         "points": 33,
         "events": {
             "1293979": {
@@ -16648,7 +16684,7 @@
         }
     },
     "146981": {
-        "player": "TCS BTV | 12YOweaboo",
+        "player": "Ganon | 12YOweaboo",
         "points": 32,
         "events": {
             "1302306": {
@@ -16978,7 +17014,7 @@
         }
     },
     "644837": {
-        "player": "TCS | KittieSE",
+        "player": "TCS BTV | KittieSE",
         "points": 31,
         "events": {
             "1302306": {
@@ -18726,7 +18762,7 @@
         }
     },
     "563994": {
-        "player": "CNH | PGH Fahey",
+        "player": "PGH Fahey",
         "points": 27,
         "events": {
             "1229459": {
@@ -19392,7 +19428,7 @@
         }
     },
     "995706": {
-        "player": "USAE | SRM13",
+        "player": "SRM13",
         "points": 25,
         "events": {
             "1293979": {
@@ -19632,7 +19668,7 @@
         }
     },
     "1343131": {
-        "player": "FOE | echelon | SLUMDOG",
+        "player": "echelon | SirTaco",
         "points": 24,
         "events": {
             "1229459": {
@@ -19816,7 +19852,7 @@
         }
     },
     "795875": {
-        "player": "BMOHC",
+        "player": "UMF | BMOHC",
         "points": 24,
         "events": {
             "1243598": {
@@ -20276,7 +20312,7 @@
         }
     },
     "2227973": {
-        "player": "NEOH | Flow",
+        "player": "YouTube Family | Flow",
         "points": 23,
         "events": {
             "1293979": {
@@ -20496,7 +20532,7 @@
         }
     },
     "10717": {
-        "player": "BB | Walby",
+        "player": "Walby",
         "points": 22,
         "events": {
             "1229459": {
@@ -20578,7 +20614,7 @@
         }
     },
     "135146": {
-        "player": "L7 | plush",
+        "player": "plush",
         "points": 22,
         "events": {
             "1229459": {
@@ -20788,7 +20824,7 @@
         }
     },
     "47670": {
-        "player": "alright",
+        "player": "VWBG | alright",
         "points": 19,
         "events": {
             "1243598": {
@@ -21952,7 +21988,7 @@
         }
     },
     "94471": {
-        "player": "IHAVEANULCER",
+        "player": "rat in house #SCARY",
         "points": 16,
         "events": {
             "1258475": {
@@ -26380,7 +26416,7 @@
         }
     },
     "41753": {
-        "player": "PEAK | cars0n",
+        "player": "Kar Cenat",
         "points": 11,
         "events": {
             "1243598": {
@@ -26840,7 +26876,7 @@
         }
     },
     "2066358": {
-        "player": "diremaykr",
+        "player": "SKRUNT | diremaykr",
         "points": 9,
         "events": {
             "1302306": {
